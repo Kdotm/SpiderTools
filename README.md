@@ -18,4 +18,8 @@ Python 学习
 	4. https://www.zhihu.com/question/53054072
 
 
-  5. geohash / geohash 临近8 个geohash，爬去省/市/县数据 
+        5. geohash / geohash 临近8 个geohash，爬去省/市/县数据 
+	
+	
+	6. Linux 下开发环境，Sublime Text 3 + Anaconda 配置
+  
