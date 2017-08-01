@@ -23,3 +23,5 @@ Python 学习
 	
 	6. Linux 下开发环境，Sublime Text 3 + Anaconda 配置
   
+  	7. Jupyter Notebook的27个窍门，技巧和快捷键(总结了一些技巧，注意转载要求):
+		http://wwwbuild.net/BigDataDigest/476234.html
